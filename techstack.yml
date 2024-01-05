@@ -1,7 +1,8 @@
 repo_name: abenteuerzeit/boilerplate-project-filemetadata
 report_id: 045c6d8438172aa2be3a88c1addedaf6
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T10:25:46+00:00'
+timestamp: '2024-01-05T08:49:19+00:00'
 requested_by: 
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/abenteuerzeit/boilerplate-project-filemetadata
   detection_source: Repo Metadata
 - name: ExpressJS
   description: Sinatra inspired web development framework for node.js -- insanely
@@ -28,7 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/boilerplate-project-filemetadata/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Tom
   last_updated_on: 2020-11-23 20:27:07.000000000 Z
@@ -41,6 +43,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/abenteuerzeit/boilerplate-project-filemetadata/blob/main/package.json
   detection_source: package.json
   last_updated_by: Tom
   last_updated_on: 2020-11-23 20:27:07.000000000 Z
@@ -52,6 +55,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/abenteuerzeit/boilerplate-project-filemetadata
   detection_source: Repo Metadata
 - name: Nix
   description: 'A package manager for Linux and other Unix systems '
@@ -62,6 +66,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/4348/ET9J1uY-_400x400.png
+  detection_source_url: https://github.com/abenteuerzeit/boilerplate-project-filemetadata
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -71,6 +76,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/abenteuerzeit/boilerplate-project-filemetadata/blob/main/package.json
   detection_source: package.json
   last_updated_by: System
   last_updated_on: 2017-02-18 19:02:08.000000000 Z
@@ -83,6 +89,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/abenteuerzeit/boilerplate-project-filemetadata
   detection_source: Repo Metadata
 - name: cors
   description: Node.js CORS middleware
@@ -94,7 +101,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/boilerplate-project-filemetadata/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Replit user
   last_updated_on: 2023-10-29 10:54:59.000000000 Z
@@ -108,7 +115,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/boilerplate-project-filemetadata/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Tom
   last_updated_on: 2020-11-23 20:27:07.000000000 Z
@@ -129,7 +136,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16421/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/boilerplate-project-filemetadata/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Replit user
   last_updated_on: 2023-10-29 10:54:59.000000000 Z
